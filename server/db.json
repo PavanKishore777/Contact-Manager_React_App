@@ -1,0 +1,130 @@
+{
+  "contacts": [
+    {
+      "name": "Brad-wilson",
+      "company": "Google",
+      "email": "bradwilson@gmail.com",
+      "title": "you tuber",
+      "mobile": "9812374569872",
+      "imageurl": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpuRgIKoer9y6Zi4cpq-k34IuBUuF42elyhQADll5NXe_427jQcHcMKVqvBH1xIE3nllE&usqp=CAU",
+      "groupId": "4",
+      "id": "D6BNdWnHI0"
+    },
+    {
+      "name": "John-Kiengs",
+      "company": "Amazon",
+      "email": "johnkiengs@gmail.com",
+      "title": "Software dev",
+      "mobile": "75693234412358",
+      "imageurl": "https://imgvisuals.com/cdn/shop/products/animated-add-contact-linear-ui-icon-129350.gif?v=1697532237",
+      "groupId": "1",
+      "id": "D6BNdWnHI1"
+    },
+    {
+      "name": "Abraham",
+      "mobile": "88845694234423871",
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo7Fv5XOFgIeHuEAqo-zoRFhMiA4SjK92izA&usqp=CAU",
+      "email": "Araham@gmail.com",
+      "title": "React dev",
+      "company": "Facebook",
+      "groupId": "2",
+      "id": "D6BNdWnHI2"
+    },
+    {
+      "name": "Joshua",
+      "company": "Goldman sachs",
+      "email": "Joshua@gmail.com",
+      "title": "Back-End dev",
+      "mobile": "77485545952136",
+      "imageurl": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/e776b1fef66d5802ddbde99b3957e732-1656007525/NON%20TRANSPARANT%20VER/make-animated-anime-avatars-oc-icon-profile-picture.gif",
+      "groupId": "4",
+      "id": "D6BNdWnHI3"
+    },
+    {
+      "name": "David",
+      "company": "JP Morgan",
+      "email": "David@gmail.com",
+      "title": "Analyst",
+      "mobile": "895321568944789",
+      "imageurl": "https://assets-v2.lottiefiles.com/a/777257d0-1165-11ee-b1f6-879fe13fdcd9/Yj2Ug583JS.gif",
+      "groupId": "5",
+      "id": "D6BNdWnHI4"
+    },
+    {
+      "name": "Isaac",
+      "company": "Google",
+      "email": "Isaac@gmail.com",
+      "title": "Data Scientist",
+      "mobile": "952145648787645373",
+      "imageurl": "https://c8.alamy.com/comp/2PWER43/businessman-avatar-illustration-simple-cartoon-user-portrait-user-profile-icon-business-leader-vector-illustration-2PWER43.jpg",
+      "groupId": "6",
+      "id": "D6BNdWnHI5"
+    },
+    {
+      "name": "Jake",
+      "company": "Netflix",
+      "email": "Jake@gmail.com",
+      "title": "Business Analyst",
+      "mobile": "65897784541236",
+      "imageurl": "https://lordicon.com/icons/wired/flat/268-avatar-man.gif",
+      "groupId": "5",
+      "id": "D6BNdWnHI6"
+    },
+    {
+      "name": "Jane",
+      "company": "Google",
+      "email": "Janeh@gmail.com",
+      "title": "you-Tuber",
+      "mobile": "89747895152368",
+      "imageurl": "data:image/png;base64,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",
+      "groupId": "4",
+      "id": "D6BNdWnHI7"
+    },
+    {
+      "name": "Frenchie",
+      "company": "Flip Kart",
+      "email": "Frenchie@gmail.com",
+      "title": "HR Manager",
+      "mobile": "7894577894561235",
+      "imageurl": "https://cdna.artstation.com/p/assets/images/images/040/951/926/original/maddie_creates-jj-ver2.gif?1630351796",
+      "groupId": "3",
+      "id": "VM03DX-"
+    },
+    {
+      "name": "mike",
+      "mobile": "7896541233",
+      "imageurl": "https://w1.pngwing.com/pngs/743/500/png-transparent-circle-silhouette-logo-user-user-profile-green-facial-expression-nose-cartoon.png",
+      "email": "mikey@gmail.com",
+      "title": "Anglar dev",
+      "company": "pwc",
+      "groupId": "1",
+      "id": "bHA7hFa"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Family "
+    },
+    {
+      "id": "2",
+      "name": "Business "
+    },
+    {
+      "id": "3",
+      "name": "Software Devs "
+    },
+    {
+      "id": "4",
+      "name": "Friends "
+    },
+    {
+      "id": "5",
+      "name": "Colleagues"
+    },
+    {
+      "id": "6",
+      "name": "Others"
+    }
+  ]
+}

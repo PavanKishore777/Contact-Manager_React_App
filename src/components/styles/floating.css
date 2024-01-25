@@ -1,0 +1,183 @@
+@media screen and (max-width: 500px) and (min-width: 350px) {
+    .floating {
+        float: right;
+        margin-right: 100px;
+    }
+
+    .takeit {
+        width: 98%;
+        text-align: center;
+    }
+
+    .margining {
+        margin-top: 10px;
+    }
+
+    .hovering, .hoveringadd {
+        width: 98%;
+        text-align: center;
+        align-content: center;
+    }
+
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f8f4e5 !important;
+}
+
+.navbar-nav .nav-link {
+    position: relative;
+    transition: color 0.3s ease-in;
+}
+
+.nav-link:hover {
+    color: #f0bb08 !important;
+}
+
+.navbar-nav .nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 3.5px;
+    border-radius: 10px;
+    background-color: #f0bb08; /* Change to your preferred underline color */
+    transition: width 0.3s ease-out;
+}
+
+.navbar-nav .nav-link:hover::after {
+    width: 100%;
+}
+
+.texty {
+    text-decoration: underline;
+}
+
+.landing-page {
+    background: white url('../../images/contactimage1.jpg') no-repeat scroll center;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+.landing-page .wrapper {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+}
+
+.landing-page .flex-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.landing-page .vacation {
+    font-size: 50px;
+}
+
+/*.text-warning-outline {*/
+/*    text-shadow: 0 1px 0 white, 0 -1px 0 white, 1px 0 0 white, -1px 0 0 white,*/
+/*    1px 1px 0 white, -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white;*/
+/*    -webkit-box-shadow: inset 0px 1px 0px 6px rgba(0, 0, 0, 0);*/
+/*    -moz-box-shadow: inset 0px 1px 0px 6px rgba(0, 0, 0, 0);*/
+/*    box-shadow: inset 0px 1px 0px 6px rgba(0, 0, 0, 0);*/
+/*}*/
+.alignment {
+    margin: 0 0 !important;
+    padding: 0 0 !important;
+}
+
+.alignment {
+    width: auto !important;
+    padding-right: 10px !important;
+}
+
+.takeit {
+    width: auto;
+}
+
+.col-sm-3 {
+    flex: 0 0 auto;
+    width: auto !important;
+    margin-right: 5px !important;
+}
+
+.form-control {
+    box-shadow: none !important;
+    border-color: black !important;
+}
+
+.form-control:hover {
+    background-color: #f6e9c0;
+}
+
+.hovering:hover {
+    background-color: #f8ba00 !important;
+}
+
+.hoveringadd:hover {
+    color: white !important;
+    background-color: green !important;
+}
+
+/**
+add contact css
+ */
+/*
+.addcontactaddclass{
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 98vw;
+    height: auto;
+    box-shadow: 0 0 10px rgb(128, 128, 128);
+    margin-left: 10px;
+    margin-right: 20px;
+}*/
+.mystyle:Hover {
+    color: white !important;
+}
+
+.imagefixes {
+    width: 350px;
+    height: auto;
+}
+
+.imagefixes1 {
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 350px;
+    height: 150px;
+    padding: 10px;
+}
+
+.imagefix2 {
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+
+}
+
+.macha {
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+    width:auto !important;
+    height: 10% !important;
+
+}
+
+.contact-image {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: scale-down !important;
+    border-radius: 17% !important;
+}
+
